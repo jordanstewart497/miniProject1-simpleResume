@@ -1,14 +1,14 @@
 .grid {
     margin: 0px auto;
     max-width: 1200px;
-    width: 100%;
+    width: 110%;
 }
 
 .row {
     width: 100%;
     margin-bottom: 20px;
      display: flex ; flex-wrap: wrap;
-       
+
 }
 
 .col-1 {
@@ -60,16 +60,16 @@
 }
 
 
-  
 
-   
-  
+
+
+
 
 
 
 
 body{
     font-family: 'Lato', sans-serif;
-    color:#747704;
+    color:#770404;
     font-weight: 300;
 }
